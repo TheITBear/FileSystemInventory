@@ -49,3 +49,8 @@ This project is licensed under the MIT License.
 ## 🙋 Support
 
 For issues or enhancements, please open an [issue](https://github.com/your-org/windows-filesystem-inventory/issues) or submit a pull request.
+
+🔒 License
+This toolkit is released for internal use under the MIT License.
+
+© 2025 – TheITBear – All rights reserved.
